@@ -13,6 +13,15 @@ let tables = [];
 let waitlist = [];
 
 
+tables = [
+    {
+        name:
+        id:
+        phone:
+        email:
+    }
+]
+
 
 
 app.get("/tables", function(req, res) {
